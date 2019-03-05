@@ -1,1 +1,1 @@
-"# Step Stool" 
+# Step Stool
